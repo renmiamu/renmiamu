@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is **Hongli SHEN**, a computer programmer and a football player.
+
+More details can be seen in my [resume](https://rxresu.me/renmiamu/github-resume).
+
 <!--
 **renmiamu/renmiamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
