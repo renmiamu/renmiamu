@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Hongli SHEN (沈宏立)
+## Hi there 👋, I'm Hongli SHEN
 
-I'm a second-year undergraduate student in **Computer Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, Class of 2023.
+I'm a third-year undergraduate student in **Computer Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, Class of 2023.
 
 ---
 
@@ -21,7 +21,7 @@ I am actively looking for **internship opportunities** (both industry and academ
 |---|---|
 | **University** | Southern University of Science and Technology (SUSTech / 南方科技大学) |
 | **Major** | Computer Science and Technology |
-| **Year** | Class of 2023 (Sophomore) |
+| **Year** | Class of 2023 |
 | **College** | Shuli College (树礼书院) |
 
 ---
@@ -30,7 +30,7 @@ I am actively looking for **internship opportunities** (both industry and academ
 
 Outside the lab, I'm a passionate footballer:
 
-- 🏆 **Captain** of the **Shuli College (树礼书院) football team**
+- 🏆 **Captain** of the **Shuli College football team**
 - 🏅 Member of the **SUSTech University football team**
 - 🛡️ Position: **Centre-back (CB)**
 
@@ -42,7 +42,6 @@ I'm open to research collaborations, internship opportunities, and any interesti
 
 - 📧 Personal: [hlshen19@gmail.com](mailto:hlshen19@gmail.com)
 - 📧 University: [12311016@mail.sustech.edu.cn](mailto:12311016@mail.sustech.edu.cn)
-- 📄 Resume: [View my resume](https://rxresu.me/renmiamu/github-resume)
 
 ---
 
