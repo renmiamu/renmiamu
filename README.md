@@ -1,20 +1,49 @@
-## Hi there 👋
+## Hi there 👋, I'm Hongli SHEN (沈宏立)
 
-My name is **Hongli SHEN**, a computer programmer and a football player.
+I'm a second-year undergraduate student in **Computer Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, Class of 2023.
 
-More details can be seen in my [resume](https://rxresu.me/renmiamu/github-resume).
+---
 
-<!--
-**renmiamu/renmiamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Research Interests
 
-Here are some ideas to get you started:
+My research focuses on the intersection of trustworthy and responsible AI:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Explainable AI (XAI)** — making machine learning models more interpretable and transparent
+- **LLM Safety** — studying alignment, robustness, and risk mitigation for large language models
+
+I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model algorithms**, including but not limited to model training, alignment, evaluation, and safety research.
+
+---
+
+### 🎓 Education
+
+| | |
+|---|---|
+| **University** | Southern University of Science and Technology (SUSTech / 南方科技大学) |
+| **Major** | Computer Science and Technology |
+| **Year** | Class of 2023 (Sophomore) |
+| **College** | Shuli College (树礼书院) |
+
+---
+
+### ⚽ Football
+
+Outside the lab, I'm a passionate footballer:
+
+- 🏆 **Captain** of the **Shuli College (树礼书院) football team**
+- 🏅 Member of the **SUSTech University football team**
+- 🛡️ Position: **Centre-back (CB)**
+
+---
+
+### 📫 Contact Me
+
+I'm open to research collaborations, internship opportunities, and any interesting conversations!
+
+- 📧 Personal: [hlshen19@gmail.com](mailto:hlshen19@gmail.com)
+- 📧 University: [12311016@mail.sustech.edu.cn](mailto:12311016@mail.sustech.edu.cn)
+- 📄 Resume: [View my resume](https://rxresu.me/renmiamu/github-resume)
+
+---
+
+*"The best way to predict the future is to invent it."*
