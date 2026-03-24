@@ -8,7 +8,7 @@ I'm a third-year undergraduate student in **Computer Science and Technology** at
 
 My research focuses on the intersection of trustworthy and responsible AI:
 
-- **AI Agent** — making machine learning models more interpretable and transparent
+- **AI Agent** — designing and evaluating autonomous agents capable of reasoning, planning, and acting in complex environments
 - **LLM Safety** — studying alignment, robustness, and risk mitigation for large language models
 
 I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model algorithms**, including but not limited to model training, alignment, evaluation, and safety research.
