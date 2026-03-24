@@ -19,10 +19,10 @@ I am actively looking for **internship opportunities** (both industry and academ
 
 | | |
 |---|---|
-| **University** | Southern University of Science and Technology (SUSTech / 南方科技大学) |
+| **University** | Southern University of Science and Technology (SUSTech) |
 | **Major** | Computer Science and Technology |
 | **Year** | Class of 2023 |
-| **College** | Shuli College (树礼书院) |
+| **College** | Shuli College |
 
 ---
 
