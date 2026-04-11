@@ -15,13 +15,23 @@ I am actively looking for **internship opportunities** (both industry and academ
 
 ---
 
-### ⚽ Football
+### 🏅 Sports
 
-Outside the lab, I'm a passionate footballer:
+Outside the lab, I enjoy a variety of sports:
+
+**⚽ Football**
 
 - 🏆 **Captain** of the **Shuli College football team**
 - 🏅 Member of the **SUSTech University football team**
 - 🛡️ Position: **Centre-back (CB)**
+
+**🏀 Basketball**
+
+- 🌩️ NBA fan of the **Oklahoma City Thunder**
+
+**🎾 Tennis**
+
+- 🏆 Fan of **Jannik Sinner**
 
 ---
 
