@@ -25,6 +25,22 @@ Outside the lab, I'm a passionate footballer:
 
 ---
 
+### 🏀 Basketball
+
+I also enjoy watching basketball:
+
+- 🌩️ NBA fan of the **Oklahoma City Thunder**
+
+---
+
+### 🎾 Tennis
+
+I follow tennis as well:
+
+- 🏆 Fan of **Jannik Sinner**
+
+---
+
 ### 📫 Contact Me
 
 I'm open to research collaborations, internship opportunities, and any interesting conversations!
