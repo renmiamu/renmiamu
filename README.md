@@ -6,7 +6,7 @@ I'm a third-year undergraduate student in **Computer Science and Technology** at
 
 ### 🔬 Research Interests
 
-I am currently a research intern at King Abdullah University of Science and Technology (KAUST) under the supervision of Prof. Di Wang.
+I am currently a research intern at King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 My research focuses on Large Language Models, particularly in LLM safety and LLM agent.
 
