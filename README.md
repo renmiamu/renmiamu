@@ -6,12 +6,11 @@ I'm a third-year undergraduate student in **Computer Science and Technology** at
 
 ### 🔬 Research Interests
 
-My research focuses on the intersection of trustworthy and responsible AI:
+I am currently a research intern at King Abdullah University of Science and Technology (KAUST) under the supervision of Prof. Di Wang.
 
-- **AI Agent** — designing and evaluating autonomous agents capable of reasoning, planning, and acting in complex environments
-- **LLM Safety** — studying alignment, robustness, and risk mitigation for large language models
+My research focuses on Large Language Models, particularly in LLM safety and LLM agent.
 
-I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model algorithms**, including but not limited to model training, alignment, evaluation, and safety research.
+I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model**, including but not limited to model training, alignment, evaluation, and safety research.
 
 ---
 
@@ -23,7 +22,7 @@ Outside the lab, I enjoy a variety of sports:
 
 - 🏆 **Captain** of the **Shuli College football team**
 - 🏅 Member of the **SUSTech University football team**
-- 🛡️ Position: **Centre-back (CB)**
+- 🛡️ Position: **Centre-back (CB)** (But always treat myself as a creative player)
 
 **🏀 Basketball**
 
@@ -42,6 +41,3 @@ I'm open to research collaborations, internship opportunities, and any interesti
 - 📧 Personal: [hlshen19@gmail.com](mailto:hlshen19@gmail.com)
 - 📧 University: [12311016@mail.sustech.edu.cn](mailto:12311016@mail.sustech.edu.cn)
 
----
-
-*"The best way to predict the future is to invent it."*
