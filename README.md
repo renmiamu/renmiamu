@@ -10,7 +10,7 @@ I am currently a research intern at King Abdullah University of Science and Tech
 
 My research focuses on large language models (LLMs), with a particular interest in large reasoning models (LRMs) and LLM agents. I also hope to explore world models and embodied AI in the future.
 
-I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model**, including but not limited to model training, alignment, evaluation, and safety research.
+I am actively looking for internship opportunities in both industry and academia in areas related to large language models, including model training, alignment, evaluation, and agentic AI.
 
 ---
 
@@ -20,9 +20,10 @@ Outside the lab, I enjoy a variety of sports:
 
 **⚽ Football**
 
-- 🏆 **Captain** of the **Shuli College football team**
-- 🏅 Member of the **SUSTech University football team**
-- 🛡️ Position: **Centre-back (CB)** (But always treat myself as a creative player)
+* 🏆 **Captain** of the **Shuli College football team**
+* 🏅 Member of the **SUSTech University football team**
+* 🛡️ Position: **Centre-back (CB)** — but I have always seen myself as a creative player
+* 🔴 A passionate fan of **Bayern Munich** and **Manchester United**
 
 **🏀 Basketball**
 
