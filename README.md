@@ -8,7 +8,7 @@ I'm a third-year undergraduate student in **Computer Science and Technology** at
 
 I am currently a research intern at King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Di Wang](https://shao3wangdi.github.io/).
 
-My research focuses on Large Language Models, particularly in LLM safety and LLM agent.
+My research focuses on large language models (LLMs), with a particular interest in large reasoning models (LRMs) and LLM agents. I also hope to explore world models and embodied AI in the future.
 
 I am actively looking for **internship opportunities** (both industry and academia) in areas related to **large language model**, including but not limited to model training, alignment, evaluation, and safety research.
 
