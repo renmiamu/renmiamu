@@ -20,7 +20,7 @@ Outside the lab, I enjoy a variety of sports:
 
 **⚽ Football**
 
-* 🏆 **Captain** of the **Shuli College football team**
+* 🏆 **Captain** of the [**Shuli College football team**](https://shulisoccer.pages.dev/)
 * 🏅 Member of the **SUSTech University football team**
 * 🛡️ Position: **Centre-back (CB)** — but I have always seen myself as a creative player
 * 🔴 A passionate fan of **Bayern Munich** and **Manchester United**
