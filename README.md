@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Hongli SHEN
 
-I'm a third-year undergraduate student in **Computer Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, Class of 2023.
+I'm a final-year undergraduate student in **Computer Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, Class of 2023.
 
 ---
 
